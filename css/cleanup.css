@@ -10,11 +10,11 @@ div#wall div#tag-3.slick, .wicked {
   display: none;
 }
 
-#wall .parent #tag-4 { /* 210 */
+#wall .parent #tag-4 { 
   display: none;
 }
 
-div#wall div.parent div#tag-5.slick { /*223*/
+div#wall div.parent div#tag-5.slick { 
   display: none;
 }
 
