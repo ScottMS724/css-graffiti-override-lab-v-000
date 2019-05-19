@@ -3,5 +3,5 @@
 }
 
 .tag-1 + #tag-2 {
-  display: block;
+  display: none;
 }
